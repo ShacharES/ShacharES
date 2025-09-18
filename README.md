@@ -12,11 +12,26 @@ I'm a passionate **Software Developer** with expertise in systems programming, b
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=cpp,go,python,js)
-
-### DevOps & Tools
-![DevOps & Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git)
+### Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+          
+                  
+</p>
 
 ## 📊 GitHub Stats
 
@@ -28,6 +43,7 @@ I'm a passionate **Software Developer** with expertise in systems programming, b
 
 </div>
 
+<!--
 ## 🔥 Contribution Stats
 
 <div align="center">
@@ -37,6 +53,7 @@ I'm a passionate **Software Developer** with expertise in systems programming, b
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShacharES&theme=react-dark&hide_border=true)
 
 </div>
+-->
 
 ## 🎯 Fun Facts & Motivation
 
