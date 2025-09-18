@@ -30,7 +30,6 @@ I'm a passionate **Software Developer** with expertise in systems programming, b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
           
-                  
 </p>
 
 ## 📊 GitHub Stats
