@@ -5,7 +5,7 @@
 I'm a passionate **Software Developer** with expertise in systems programming, backend development, and DevOps practices. I love building robust, scalable solutions and automating complex workflows.
 
 🚀 **What I do:**
-- Build high-performance applications with **C++** and **Go**
+- Build high-performance applications with **C++**, **Go**, **Next.js** and more
 - Design and implement scalable backend systems
 - Automate infrastructure and deployment pipelines
 - Optimize system performance and reliability
